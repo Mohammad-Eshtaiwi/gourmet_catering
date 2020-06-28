@@ -112,7 +112,7 @@ main section {
 }
 main section:not(:last-of-type) {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   border-bottom: 1px solid var(--main-gray);
 }
 /* about */
